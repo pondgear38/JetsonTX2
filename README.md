@@ -34,7 +34,9 @@ How to install Git:
 
 https://www.liquidweb.com/kb/install-git-ubuntu-16-04-lts/
 
+Setting up Ubuntu 16.04 + CUDA + GPU for deep learning with Python:
 
+https://www.pyimagesearch.com/2017/09/27/setting-up-ubuntu-16-04-cuda-gpu-for-deep-learning-with-python/
 
 
 
